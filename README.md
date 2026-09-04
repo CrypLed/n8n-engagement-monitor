@@ -5,7 +5,10 @@ reactions/comments on a schedule, so you stop manually opening five tabs to chec
 thing you shipped.
 
 Free, MIT, verified working (not a screenshot of a workflow that's never actually run — this exact JSON was
-imported into a real n8n instance and executed successfully before being published).
+imported into a real n8n instance and executed successfully before being published). CI runs structural
+checks on every push (valid JSON, every connection points at a real node, no embedded credentials, no
+obvious secret patterns) — that can't replace the real-instance test, but it does catch a broken PR before
+it merges.
 
 ## What it does
 

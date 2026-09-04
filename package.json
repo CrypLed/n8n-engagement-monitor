@@ -1,0 +1,10 @@
+{
+  "name": "n8n-engagement-monitor-template",
+  "version": "1.0.0",
+  "description": "Ready-to-import n8n workflow template: track GitHub stars and dev.to engagement on a schedule.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node test/validate.test.js"
+  }
+}
