@@ -51,6 +51,8 @@ indie hacker has and almost nobody automates.
 
 ## Support this project
 
+Need something like this built for your own codebase/workflow? [I take on paid automation work](https://crypled.github.io/hire-page/) — same process, real proof of work.
+
 Free, no strings attached. Tips welcome via USDC/ETH on Base, Ethereum, Polygon, Arbitrum, or Optimism (same
 address on all):
 
